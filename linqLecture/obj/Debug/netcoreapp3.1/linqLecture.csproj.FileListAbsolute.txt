@@ -1,0 +1,14 @@
+C:\Users\yashi\source\repos\linqLecture\linqLecture\bin\Debug\netcoreapp3.1\linqLecture.exe
+C:\Users\yashi\source\repos\linqLecture\linqLecture\bin\Debug\netcoreapp3.1\linqLecture.deps.json
+C:\Users\yashi\source\repos\linqLecture\linqLecture\bin\Debug\netcoreapp3.1\linqLecture.runtimeconfig.json
+C:\Users\yashi\source\repos\linqLecture\linqLecture\bin\Debug\netcoreapp3.1\linqLecture.runtimeconfig.dev.json
+C:\Users\yashi\source\repos\linqLecture\linqLecture\bin\Debug\netcoreapp3.1\linqLecture.dll
+C:\Users\yashi\source\repos\linqLecture\linqLecture\bin\Debug\netcoreapp3.1\linqLecture.pdb
+C:\Users\yashi\source\repos\linqLecture\linqLecture\obj\Debug\netcoreapp3.1\linqLecture.csproj.AssemblyReference.cache
+C:\Users\yashi\source\repos\linqLecture\linqLecture\obj\Debug\netcoreapp3.1\linqLecture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yashi\source\repos\linqLecture\linqLecture\obj\Debug\netcoreapp3.1\linqLecture.AssemblyInfoInputs.cache
+C:\Users\yashi\source\repos\linqLecture\linqLecture\obj\Debug\netcoreapp3.1\linqLecture.AssemblyInfo.cs
+C:\Users\yashi\source\repos\linqLecture\linqLecture\obj\Debug\netcoreapp3.1\linqLecture.csproj.CoreCompileInputs.cache
+C:\Users\yashi\source\repos\linqLecture\linqLecture\obj\Debug\netcoreapp3.1\linqLecture.dll
+C:\Users\yashi\source\repos\linqLecture\linqLecture\obj\Debug\netcoreapp3.1\linqLecture.pdb
+C:\Users\yashi\source\repos\linqLecture\linqLecture\obj\Debug\netcoreapp3.1\linqLecture.genruntimeconfig.cache
